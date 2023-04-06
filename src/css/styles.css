@@ -67,6 +67,11 @@
   /* ------BTN------ */
   --pr-hover-color: rgba(252, 241, 224, 1);
   --sec-hover-color: rgba(30, 24, 35, 1);
+  
+  --pr-modal-color:rgba(64, 64, 64, 0.3);
+  --bg-price-color:#FAFAFA;
+  --bg-circle-color:rgba(17, 17, 17, 0.1);
+
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -74,3 +79,30 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
+body {
+  font-family: 'Montserrat', sans-serif;
+
+  background-color: var(--pr-bg-color);
+  color: var(--pr-text-color);
+
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.28;
+  letter-spacing: -0.02em;
+}
+
+.btn {
+  padding: 12px 28px;
+  font-family: inherit;
+
+  background-color: var(--accent-color);
+  color: var(--sec-text-color);
+  border-radius: 100px;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.21;
+
+  cursor: pointer;
+}
+

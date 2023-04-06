@@ -42,29 +42,3 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-
-body {
-  font-family: 'Montserrat', sans-serif;
-
-  background-color: var(--pr-bg-color);
-  color: var(--pr-text-color);
-
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 1.28;
-  letter-spacing: -0.02em;
-}
-
-.btn {
-  padding: 12px 28px;
-  font-family: inherit;
-
-  background-color: var(--accent-color);
-  color: var(--sec-text-color);
-  border-radius: 100px;
-  font-weight: 600;
-  font-size: 14px;
-  line-height: 1.21;
-
-  cursor: pointer;
-}
