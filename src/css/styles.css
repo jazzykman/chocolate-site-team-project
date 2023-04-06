@@ -4,18 +4,48 @@
   | default @import url()
   |============================
 */
+
+/* <!------- Reset -------> */
 @import url('./reset.css');
+
+/* <!----- Header  ------> */
 /* @import url('./.css'); */
+
+/* <!------- Hero  -------> */
 /* @import url('./.css'); */
+
+/* <!---- Advantages  ----> */
 /* @import url('./.css'); */
+
+/* <!-- Unique components  --> */
 /* @import url('./.css'); */
+
+/* <!---- How its made?  -----> */
 /* @import url('./.css'); */
+
+/* <!---- Our products  -----> */
 /* @import url('./.css'); */
+
+/* <!---- Top sellers  -----> */
 /* @import url('./.css'); */
+
+/* <!---- Reviews  -----> */
 /* @import url('./.css'); */
+
+/* <!---- Subscribe -----> */
 /* @import url('./.css'); */
+
+/* <!---- Footer -----> */
 /* @import url('./.css'); */
+
+/* <!------- Modal --------> */
+/* <!------- Buy now ------> */
 /* @import url('./.css'); */
+
+/* <!---- Leave a review about our chocolate ----> */
+/* @import url('./.css'); */
+
+/* <!---- Explore our new chocolate first ----> */
 /* @import url('./.css'); */
 
 :root {
