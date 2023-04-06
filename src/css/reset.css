@@ -24,10 +24,6 @@ a {
   text-decoration: none;
 }
 
-button {
-  cursor: pointer;
-}
-
 img {
   display: block;
   max-width: 100%;
@@ -57,4 +53,18 @@ body {
   font-size: 14px;
   line-height: 1.28;
   letter-spacing: -0.02em;
+}
+
+.btn {
+  padding: 12px 28px;
+  font-family: inherit;
+
+  background-color: var(--accent-color);
+  color: var(--sec-text-color);
+  border-radius: 100px;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.21;
+
+  cursor: pointer;
 }
