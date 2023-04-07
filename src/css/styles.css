@@ -6,7 +6,7 @@
 */
 
 /* <!------- Reset -------> */
-@import url('/src/css/reset');
+@import url('./src/css/reset');
 
 /* <!----- Header  ------> */
 /* @import url('./.css'); */
